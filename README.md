@@ -5,6 +5,6 @@ images.
 
 python3 main.py 1 input_path output_path
 
-– For the second part, <input path> will contain the location of the video file.
+– For the second part, input_path will contain the location of the video file.
 
 python3 main.py 2 input_path output_path
